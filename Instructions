@@ -1,0 +1,2 @@
+roslaunch ydlidar_ros_driver X4.launch 
+python3 minion_driver_node1.py 
